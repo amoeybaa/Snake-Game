@@ -1,3 +1,5 @@
+// Snake game with passthrough walls
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
